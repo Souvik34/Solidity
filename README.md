@@ -15,6 +15,6 @@ To get started with ZombieFeeding, you can either clone the repository and set u
 
 
 ### Acknowledgments
-# Ethereum for creating a decentralized platform that supports smart contracts and decentralized applications.
-# OpenZeppelin for providing the solidity smart contracts framework, which includes essential smart contracts such as ERC20, ERC721, and the standard ERC20 token.
-# Consensys Academy for providing the guidelines and tutorials that were used to develop this DApp.
+ Ethereum for creating a decentralized platform that supports smart contracts and decentralized applications.
+ OpenZeppelin for providing the solidity smart contracts framework, which includes essential smart contracts such as ERC20, ERC721, and the standard ERC20 token.
+ Consensys Academy for providing the guidelines and tutorials that were used to develop this DApp.
